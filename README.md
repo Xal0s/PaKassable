@@ -17,7 +17,7 @@ Pakassable est une application Java qui vous permet de chiffrer et de hacher vos
 
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/Turbotard/Cryptator3001.git
+    git clone https://github.com/Xal0s/PaKassable.git
     ```
 2. Ouvrez le projet dans IntelliJ IDEA.
 3. Compilez et exécutez le projet.
